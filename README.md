@@ -14,6 +14,15 @@ It has login and sign in pages for both psychologist and students
 ![image](https://github.com/etsuamb/Hackaton_project/assets/150803173/03e5946d-d50a-43c2-b1c1-2cc30ece0409)
 
 
+It has various categories as acedemic, phychological,addiction, family, relationship in which students will be able to see posted stories
+and also comment on them based on this categories
+
+
+
+![image](https://github.com/etsuamb/Hackaton_project/assets/150803173/47cbdc11-ad5e-4f77-b4ae-33d7e7f83fb5)
+
+
+
 
 
 
