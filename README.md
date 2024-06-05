@@ -23,6 +23,17 @@ and also comment on them based on this categories
 
 
 
+It has commenting section where students comment on the posted story. It has also posting section in which students can post
+their story either privately or publicly. And the private post will be seen anonymously.
+
+
+
+
+![image](https://github.com/etsuamb/Hackaton_project/assets/150803173/278a0a9f-761f-4244-a7fc-1780c5bf906a)
+
+
+
+
 
 
 
