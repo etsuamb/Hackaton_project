@@ -47,6 +47,10 @@ It also has user profile and profile editing page where users can see their prof
 Moreover, it has a psychologist explore and psychologist page.
 
 
+![image](https://github.com/etsuamb/Hackaton_project/assets/150803173/9b089317-56c2-4c12-8cfc-4f4a77648bc2)
+
+
+
 
 
 
