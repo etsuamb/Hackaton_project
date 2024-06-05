@@ -34,6 +34,22 @@ their story either privately or publicly. And the private post will be seen anon
 
 
 
+It also has user profile and profile editing page where users can see their profile and edit it.
+
+
+
+
+![image](https://github.com/etsuamb/Hackaton_project/assets/150803173/da8b5d49-b39b-4876-a144-46675dad606f)
+
+
+
+
+Moreover, it has a psychologist explore and psychologist page.
+
+
+
+
+
 
 
 
