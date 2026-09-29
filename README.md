@@ -1,6 +1,6 @@
 # MindHub
 
-MindHub is a mobile social platform designed to give university students a safe place to share experiences and find support around academic stress, relationships, family issues, addiction, and other personal challenges.
+MindHub is a mobile social platform designed to give university students a space to share experiences, discuss personal challenges, and find support.
 
 ## Features
 
@@ -14,17 +14,23 @@ MindHub is a mobile social platform designed to give university students a safe 
 
 ## Screenshots
 
-### Authentication
-![Authentication](https://github.com/etsuamb/Hackaton_project/assets/150803173/fc5fae5e-b324-4faa-bb0a-566b01de6f3c)
+A few representative screens are included below to keep the README focused.
 
-### Categories and Posts
-![Categories](https://github.com/etsuamb/Hackaton_project/assets/150803173/47cbdc11-ad5e-4f77-b4ae-33d7e7f83fb5)
+### Authentication
+![MindHub authentication](https://github.com/etsuamb/Hackaton_project/assets/150803173/fc5fae5e-b324-4faa-bb0a-566b01de6f3c)
+
+### Categories & Posts
+![MindHub categories and posts](https://github.com/etsuamb/Hackaton_project/assets/150803173/47cbdc11-ad5e-4f77-b4ae-33d7e7f83fb5)
 
 ### Anonymous Posting
-![Anonymous posting](https://github.com/etsuamb/Hackaton_project/assets/150803173/278a0a9f-761f-4247-a7fc-1780f0de6f3c)
+![MindHub anonymous posting](https://github.com/etsuamb/Hackaton_project/assets/150803173/278a0a9f-761f-4247-a7fc-1780f0de6f3c)
 
-### Psychologist Discovery
-![Psychologists](https://github.com/etsuamb/Hackaton_project/assets/150803173/da8b5d49-b39b-4876-a144-46675dad606f)
+## Tech Stack
+
+- Flutter / Dart
+- Firebase
+- Mobile UI development
+- Authentication and role-based experiences
 
 ## What I Worked On
 
