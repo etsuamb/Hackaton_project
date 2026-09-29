@@ -10,12 +10,7 @@ MindHub is a mobile social platform designed to give university students a safe 
 - Comments and community interaction
 - User profiles and profile editing
 - Psychologist discovery and profile pages
-- Content organized by categories such as:
-  - Academic
-  - Psychological
-  - Addiction
-  - Family
-  - Relationships
+- Categories for academic, psychological, addiction, family, and relationship topics
 
 ## Screenshots
 
@@ -26,14 +21,14 @@ MindHub is a mobile social platform designed to give university students a safe 
 ![Categories](https://github.com/etsuamb/Hackaton_project/assets/150803173/47cbdc11-ad5e-4f77-b4ae-33d7e7f83fb5)
 
 ### Anonymous Posting
-![Anonymous posting](https://github.com/etsuamb/Hackaton_project/assets/150803173/278a0a9f-761f-4244-a7fc-1780c5bf906a)
+![Anonymous posting](https://github.com/etsuamb/Hackaton_project/assets/150803173/278a0a9f-761f-4247-a7fc-1780f0de6f3c)
 
 ### Psychologist Discovery
-![Psychologists](https://github.com/etsuamb/Hackaton_project/assets/150803173/da8b5d49-b39b-487a-1446-46675dad606f)
+![Psychologists](https://github.com/etsuamb/Hackaton_project/assets/150803173/da8b5d49-b39b-4876-a144-46675dad606f)
 
 ## What I Worked On
 
-This project gave me practical experience building a mobile application with user authentication, social interactions, privacy-aware posting, profiles, and role-based user experiences.
+This project gave me practical experience with mobile application development, authentication, social interactions, privacy-aware posting, profiles, and role-based user experiences.
 
 ## Project Context
 
